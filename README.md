@@ -4,9 +4,9 @@ Cette page web est dédiée aux artistes berbères qui ont marqué l'histoire de
 Elle présente une sélection d'artistes berbères célèbres, avec des informations sur leur vie, leur œuvre et leurs contributions à la culture berbère.
 Vous Pouvez La Modifier comme bon vous sembles
 
-![preview_1.png](prev.png)
-![preview_2.png](prev.png)
-![preview_3.png](prev.png)
+![preview_1.png](preview_1.png)
+![preview_2.png](preview_2.png)
+![preview_3.png](preview_3.png)
 ## Technologies utilisées
 
 * HTML5
